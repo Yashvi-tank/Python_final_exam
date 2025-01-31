@@ -1,0 +1,8 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.table {
+    border-radius: 8px;
+    overflow: hidden;
+}
